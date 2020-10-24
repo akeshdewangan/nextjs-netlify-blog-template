@@ -13,7 +13,7 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, I am <span className="fancy">Akesh Dewangan.</span>
+            Hi, My name is <span className="fancy">Akesh Dewangan.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
           <h2>A blog template with Next.js and Netlify.</h2>
